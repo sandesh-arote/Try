@@ -1,3 +1,8 @@
 
 I am New to git
 I am trying things to learn git and get used to it.
+
+
+
+On the next day I decided to develop app and I am very sure it will be hit. 
+I am working on version 1.0
