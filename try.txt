@@ -1,0 +1,3 @@
+
+I am New to git
+I am trying things to learn git and get used to it.
