@@ -21,3 +21,7 @@ I think I must add some more features to my app and release it as version 1.1
 Sounds gooooooood
 Lets work on version 1.1
 And its done ✅ 
+
+
+Ohh but I feel need to work on version 2.0 simultaneously 
+Lets branch 
